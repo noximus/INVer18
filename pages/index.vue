@@ -31,6 +31,19 @@ export default {
   }
 }
 </script>
+<script src="https://www.gstatic.com/firebasejs/5.4.2/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyC8-8_WSXTyfHX8NuSg2J-JVoIzdYEmFgI",
+    authDomain: "interactive-nerd.firebaseapp.com",
+    databaseURL: "https://interactive-nerd.firebaseio.com",
+    projectId: "interactive-nerd",
+    storageBucket: "interactive-nerd.appspot.com",
+    messagingSenderId: "958981326130"
+  };
+  firebase.initializeApp(config);
+</script>
 
 <style>
 .container {

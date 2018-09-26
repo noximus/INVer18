@@ -1,0 +1,19 @@
+{
+		"name": "AMD Patent Trial",
+       "link": "http://pixelrockstudios.com/work/AMD/",
+   "type": "web",
+   "id": "amd",
+       "client": "AMD",
+       "date": "5/2013",
+       "technology": "Flash Animation, Computer Science History",
+       "description": "In 10 day time frame I had to learn Computer Science from the ground up to create a video that would tell the story of how AMD processing and intel processing are different and AMD did not infringe on the Patent.  AMD won the case.",
+       "facebook":"../images/lg.jpg",
+        "twitter":"../images/sm1.jpg",
+        "linkedin":"../images/sm2.jpg",
+        "github":"",
+        "img": [
+            {"image":"../images/portfolio/amdlg.jpg"},
+            {"image":"../images/portfolio/amdsm1.jpg"},
+            {"image":"../images/portfolio/amdsm2.jpg"}
+        ]
+}

@@ -1,0 +1,19 @@
+{
+		"name": "BMW i8 Experience",
+       "link": "http://pixelrockstudios.com/work/bmwi8ex/",
+   "type": "web",
+   "id": "bmw-i8ex",
+       "client": "BMW",
+       "date": "5/2013",
+       "technology": "HTML5, CSS3, Javascript, Jquery, Greensock",
+       "description": "BMW i8 Experience Template implemented inside BMW cutsom CMS",
+       "facebook":"../images/lg.jpg",
+        "twitter":"../images/sm1.jpg",
+        "linkedin":"../images/sm2.jpg",
+        "github":"",
+        "img": [
+            {"image":"../images/portfolio/bmwi8exlg.jpg"},
+            {"image":"../images/portfolio/bmwi8exsm1.jpg"},
+            {"image":"../images/portfolio/bmwi8exsm2.jpg"}
+        ]
+}
